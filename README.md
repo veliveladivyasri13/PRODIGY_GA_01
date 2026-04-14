@@ -20,3 +20,13 @@ Generate human-like text using GPT-2 model based on user input.
 ## ▶️ How to Run
 
 ### Install dependencies
+
+### Train model
+
+### Generate text
+
+## 📊 Output
+The model generates meaningful text based on input prompts.
+
+## ✅ Conclusion
+Successfully fine-tuned GPT-2 to generate human-like text using a custom dataset.
